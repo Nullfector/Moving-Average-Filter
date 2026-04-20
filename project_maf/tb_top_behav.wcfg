@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_top_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_top" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000000 ms"></ZoomStartTime>
+      <ZoomEndTime time="5.000000001 ms"></ZoomEndTime>
+      <Cursor1Time time="0.000000000 ms"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="266"></NameColumnWidth>
+      <ValueColumnWidth column_width="104"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="24" />
+   <wvobject type="logic" fp_name="/tb_top/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_top/rst">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_top/in_data">
+      <obj_property name="ElementShortName">in_data</obj_property>
+      <obj_property name="ObjectShortName">in_data</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_top/sclk_adc">
+      <obj_property name="ElementShortName">sclk_adc</obj_property>
+      <obj_property name="ObjectShortName">sclk_adc</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_top/cs_adc">
+      <obj_property name="ElementShortName">cs_adc</obj_property>
+      <obj_property name="ObjectShortName">cs_adc</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_top/i">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_top/cs_dac">
+      <obj_property name="ElementShortName">cs_dac</obj_property>
+      <obj_property name="ObjectShortName">cs_dac</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_top/din">
+      <obj_property name="ElementShortName">din</obj_property>
+      <obj_property name="ObjectShortName">din</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_top/i">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_top/sclk_dac">
+      <obj_property name="ElementShortName">sclk_dac</obj_property>
+      <obj_property name="ObjectShortName">sclk_dac</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_top/dac_model">
+      <obj_property name="ElementShortName">dac_model[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dac_model[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_top/freq_sample">
+      <obj_property name="ElementShortName">freq_sample</obj_property>
+      <obj_property name="ObjectShortName">freq_sample</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/tb_top/phase">
+      <obj_property name="ElementShortName">phase</obj_property>
+      <obj_property name="ObjectShortName">phase</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/tb_top/dphi">
+      <obj_property name="ElementShortName">dphi</obj_property>
+      <obj_property name="ObjectShortName">dphi</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/tb_top/amp">
+      <obj_property name="ElementShortName">amp</obj_property>
+      <obj_property name="ObjectShortName">amp</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/tb_top/offs">
+      <obj_property name="ElementShortName">offs</obj_property>
+      <obj_property name="ObjectShortName">offs</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_top/v">
+      <obj_property name="ElementShortName">v[0:14][11:0]</obj_property>
+      <obj_property name="ObjectShortName">v[0:14][11:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_top/dut/dac/data">
+      <obj_property name="ElementShortName">data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_top/dac_sign">
+      <obj_property name="ElementShortName">dac_sign[11:0]</obj_property>
+      <obj_property name="ObjectShortName">dac_sign[11:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_top/dac_sign">
+      <obj_property name="ElementShortName">dac_sign[11:0]</obj_property>
+      <obj_property name="ObjectShortName">dac_sign[11:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_HOLD</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">2048.000000</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_top/dut/filtered_data">
+      <obj_property name="ElementShortName">filtered_data[11:0]</obj_property>
+      <obj_property name="ObjectShortName">filtered_data[11:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_top/dut/filtered_data">
+      <obj_property name="ElementShortName">filtered_data[11:0]</obj_property>
+      <obj_property name="ObjectShortName">filtered_data[11:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_HOLD</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">2048.000000</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_top/dut/data_adc">
+      <obj_property name="ElementShortName">data_adc[11:0]</obj_property>
+      <obj_property name="ObjectShortName">data_adc[11:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_HOLD</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">2048.000000</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_top/got">
+      <obj_property name="ElementShortName">got[31:0]</obj_property>
+      <obj_property name="ObjectShortName">got[31:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>

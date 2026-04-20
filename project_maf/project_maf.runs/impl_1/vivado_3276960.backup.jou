@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Wed May 21 22:58:25 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Wed Jan 21 14:28:24 2026
+# Process ID         : 3276960
+# Current directory  : /home/skoczen/vivado/examples_didactics/hdl25/ledwon-nowak/v2/maf_as/project_maf/project_maf.runs/impl_1
+# Command line       : vivado -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file           : /home/skoczen/vivado/examples_didactics/hdl25/ledwon-nowak/v2/maf_as/project_maf/project_maf.runs/impl_1/top.vdi
+# Journal file       : /home/skoczen/vivado/examples_didactics/hdl25/ledwon-nowak/v2/maf_as/project_maf/project_maf.runs/impl_1/vivado.jou
+# Running On         : Dell-Xeon
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 22.04.3 LTS
+# Processor Detail   : Intel(R) Xeon(R) CPU E5-1650 0 @ 3.20GHz
+# CPU Frequency      : 1426.487 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 33603 MB
+# Swap memory        : 0 MB
+# Total Virtual      : 33603 MB
+# Available Virtual  : 12027 MB
+#-----------------------------------------------------------
+source top.tcl -notrace

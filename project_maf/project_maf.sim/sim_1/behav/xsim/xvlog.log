@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/admin/maf_as/src/adc.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fsm1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/admin/maf_as/src/dac.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dacspi
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/admin/maf_as/src/filter_v2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module filter_v2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/admin/maf_as/src/top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/admin/maf_as/tb/test_top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_top

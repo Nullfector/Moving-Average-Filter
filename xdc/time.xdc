@@ -1,0 +1,1 @@
+create_clock -name c100Mhz -period 100 [get_ports clk]

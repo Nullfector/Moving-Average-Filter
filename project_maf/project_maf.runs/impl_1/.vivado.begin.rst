@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="skoczen" Host="Dell-Xeon" Pid="3276909" HostCore="12" HostMemory="32815564">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="skoczen" Host="Dell-Xeon" Pid="3298547" HostCore="12" HostMemory="32815564">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="skoczen" Host="Dell-Xeon" Pid="3306672" HostCore="12" HostMemory="32815564">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="admin" Host="UWU-MACHINE" Pid="13840" HostCore="12" HostMemory="068415475712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="admin" Host="UWU-MACHINE" Pid="4672" HostCore="12" HostMemory="068415475712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="admin" Host="UWU-MACHINE" Pid="16456" HostCore="12" HostMemory="068415475712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="admin" Host="UWU-MACHINE" Pid="19852" HostCore="12" HostMemory="068415475712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="admin" Host="UWU-MACHINE" Pid="1420" HostCore="12" HostMemory="068415475712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="admin" Host="UWU-MACHINE" Pid="12348" HostCore="12" HostMemory="068415475712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="admin" Host="UWU-MACHINE" Pid="13676" HostCore="12" HostMemory="068415475712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="admin" Host="UWU-MACHINE" Pid="13804" HostCore="12" HostMemory="068415475712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="admin" Host="UWU-MACHINE" Pid="20800" HostCore="12" HostMemory="068415475712">
+    </Process>
+</ProcessHandle>

@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+WARNING: Too many words specified in data file init_ring_mem.mem
+Fatal: TIMEOUT: simulation exceeded 5 ms without finishing expected activity.
+Time: 5 ms  Iteration: 0  Process: /tb_top/Initial101_22  Scope: tb_top  File: C:/Users/admin/maf_as/tb/test_top.sv Line: 103
+$finish called at time : 5 ms
